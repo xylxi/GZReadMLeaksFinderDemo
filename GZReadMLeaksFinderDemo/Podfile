@@ -1,0 +1,5 @@
+target 'GZReadMLeaksFinderDemo' do
+
+    pod 'MLeaksFinder'
+ 
+end
